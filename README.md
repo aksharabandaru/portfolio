@@ -1,12 +1,14 @@
-# Akshara Hemalatha Bandaru - React Portfolio
+Akshara Hemalatha Bandaru – Portfolio
 
-Welcome to my personal React portfolio!  
-This repository showcases my projects, skills, and achievements using **React** and modern frontend technologies.
+Welcome to my personal portfolio!
+This repository highlights my projects, skills, and achievements, demonstrating my proficiency in modern frontend technologies.
 
 ## 🌐 Live Site
 [View Portfolio](https://aksharabandaru.github.io/portfolio/)
+🛠️ Technologies & Tools
 
-## 🛠️ Technologies Used
-- React.js, JavaScript, HTML, CSS
-- Tailwind CSS for responsive design
-- Git & GitHub for version control
+HTML & CSS – Semantic markup & styling
+
+Tailwind CSS – Responsive, mobile-first design
+
+Git & GitHub – Version control & collaboration
